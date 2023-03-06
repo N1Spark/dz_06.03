@@ -1,0 +1,14 @@
+﻿<Orders>
+	<Order Id="5458" Customer="Никита">
+		<Product Name="Видеокарта" Price="39999" />
+	</Order>
+	<Order Id="4144" Customer="Даня">
+		<Product Name="Процессор" Price="19000" />
+	</Order>
+	<Order Id="9586" Customer="Пет">
+		<Product Name="Мат. Плата" Price="12000" />
+	</Order>
+	<Order Id="5216" Customer="Дима">
+		<Product Name="SSD" Price="3599" />
+	</Order>
+</Orders>
